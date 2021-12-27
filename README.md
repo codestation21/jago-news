@@ -74,7 +74,7 @@ Html,CSS3,JQuary,Modernizer,fontawsome,Bootstarp,animated css,javascript
 Clone the project
 
 ```bash
-  git clone https://github.com/codestation21/switch-book.git
+  git clone https://github.com/codestation21/jago-news.git
 ```
 
 Go to the project directory
